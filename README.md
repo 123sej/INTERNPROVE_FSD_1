@@ -1,4 +1,4 @@
-This is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and Typescript.
+An e-commerce website built using HTML, CSS, and TypeScript (TS) provides a responsive and visually appealing platform for online shopping. HTML structures the content, CSS enhances the design, while TypeScript adds dynamic functionality such as interactive product filtering, validation, and smooth cart management. The result is a fast, user-friendly interface with improved performance and scalability.
 
 # React + TypeScript + Vite
 
