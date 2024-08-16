@@ -1,3 +1,5 @@
+This is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and Typescript.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
